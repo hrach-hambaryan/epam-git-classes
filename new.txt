@@ -1,3 +1,7 @@
 New test file
 
 Added new line from GUI
+
+Added new line from new branch2
+
+Added new line from new-branch-2
